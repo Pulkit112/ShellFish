@@ -1,0 +1,4 @@
+
+alias b = ls -lah
+alias a = ls -l
+alias c = cat
